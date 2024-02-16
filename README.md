@@ -8,11 +8,6 @@ This Stopwatch project is created as part of my internship at Prodigy Info Tech.
 - **Reset Button:** Resets the stopwatch to zero.
 - **Lap Button:** Records lap times while the stopwatch is running.
 
-##Screenshots
-
-![Stopwatch](https://github.com/mrpratham/PRODIGY_WD_02/1.png)
-![Stopwatch](https://github.com/mrpratham/PRODIGY_WD_02/2.png)
-
 
 ## Technologies Used
 
